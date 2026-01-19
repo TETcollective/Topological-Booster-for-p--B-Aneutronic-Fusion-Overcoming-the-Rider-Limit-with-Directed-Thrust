@@ -22,7 +22,6 @@ Questo lavoro propone un booster topologico integrato in regimi hot-ion non-Maxw
 
 ## Contenuti del Repository
 
-- `main.tex`        
-- `sections/`                     
+- `main.tex`                            
 - `references.bib`         
 - `README.md`              
